@@ -1,3 +1,1 @@
-# Teaching
-
 Principles of Economics
