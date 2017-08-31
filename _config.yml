@@ -2,9 +2,5 @@ name: Herring Cove
 author: Herring Cove
 description: A Personal Website
 github: http://www.github.com/arnp
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
-linkedin: http://www.linkedin.com
 email: rnpatel[at]me.com
-
 theme: jekyll-theme-minimal
